@@ -1,3 +1,6 @@
+# Deploy web page to server
 gcloud app deploy app.yaml --project helloworld-177611
+
+# Host web page to localhost
 dev_appserver.py ./
 
