@@ -855,6 +855,12 @@ h1, h2, h3, h4, h5, h6, figure {
 					content: "\e9b5";
 				}
 			}
+			&.head {
+				&:before {
+					font-size: 23px;
+					content: "\e074";
+				}
+			}
 		}
 	}
 }

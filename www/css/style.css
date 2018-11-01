@@ -796,10 +796,13 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 23px;
   content: "\e9af";
 }
-
 .gtco-contact-info ul li.heart:before {
   font-size: 23px;
   content: "\e9b5";
+}
+.gtco-contact-info ul li.head:before {
+  font-size: 23px;
+  content: "\e074";
 }
 
 #map {
